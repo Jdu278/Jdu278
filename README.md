@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdu278&label=Profile%20views&color=0e75b6&style=flat" alt="jdu278" /> </p>
 
-- 🌱 I’m currently learning **Vue.js and Typescript*
+- 🌱 I’m currently learning ***Vue.js and Typescript*
 
 - 👨‍💻 All of my projects are available [here](https://timschauder.nimbusweb.me/share/7609206/idvr6n5oyoqpkvkhy15w)
 
