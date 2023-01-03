@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo13924
-Fork on GitHub3710
 <h1 align="center">Hi 👋, I'm Tim Schauder</h1>
 <h3 align="center">A curious Junior Full Stack Developer from Germany</h3>
 
