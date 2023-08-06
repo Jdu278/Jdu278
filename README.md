@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tim 🙋🏻</h1>
-<h3 align="center">A Full Stack Dev from Germany</h3>
+<h3 align="center"> - Full Stack Dev - </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdu278&label=Profile%20views&color=0e75b6&style=flat" alt="jdu278" /> </p>
 
